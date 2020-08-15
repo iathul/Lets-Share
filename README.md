@@ -12,6 +12,7 @@ https://github.com/bradtraversy/storybooks
 ```
 
 # To Test the project
+Please add your mongoDB URI and Google OAuth credentials in config/config.env file before testing the project
 ```
 # Install dependencies
 npm install
